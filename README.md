@@ -5,7 +5,9 @@
 [![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-lightgrey?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
 
-**BoxSeen** یک وب‌اپلیکیشن فروشگاهی مدرن و مقیاس‌پذیر برای فروش آنلاین محصولات است. این پروژه با استفاده از فریم‌ورک قدرتمند **Django** و پایگاه داده **PostgreSQL** توسعه یافته و تجربه کاربری عالی برای خریداران و مدیران فروشگاه فراهم می‌کند.
+<p dir="rtl" style="text-align: right; line-height: 1.6;">
+<strong>BoxSeen</strong> یک وب‌اپلیکیشن فروشگاهی مدرن و مقیاس‌پذیر برای فروش آنلاین محصولات است. این پروژه با استفاده از فریم‌ورک قدرتمند <strong>Django</strong> و پایگاه داده <strong>PostgreSQL</strong> توسعه یافته و تجربه کاربری عالی برای خریداران و مدیران فروشگاه فراهم می‌کند.
+</p>
 
 > ⚠️ **توجه:** کدهای منبع به دلیل محرمانه بودن پروژه اصلی، در اینجا موجود نیستند. این مخزن شامل مستندات فنی، معماری و دموهای وب‌سایت است.
 
